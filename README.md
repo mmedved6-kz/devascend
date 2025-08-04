@@ -1,11 +1,11 @@
-# DevPortfolioAI: AI-Guided Projects for Junior Devs in the AI Job Crunch
+# DevAscend: AI-Guided Projects for Junior Devs in the AI Job Crunch
 
 [![GitHub stars](https://img.shields.io/github/stars/mmedved6-kz/DevAscend)](https://github.com/mmedved6-kz/DevAscend/stargazers)
 
 ## The Problem
 In 2025, AI is automating entry-level dev tasks, making it harder for juniors (0-2 years experience) to land jobs. Free GitHub project lists (like build-your-own-x or awesome-for-beginners) are great for ideas but feel like isolated homework—they lack personalization, real-world context, and guidance to build resume-worthy portfolios. As a result, grads waste months in "tutorial hell," facing rejections while skills stagnate.
 
-DevPortfolioAI solves this by turning static ideas into **AI-assisted, personalized projects** that simulate senior workflows (e.g., fixing legacy code under deadlines). It's not just a list—it's a virtual mentor helping you stand out in an AI-driven market.
+DevAscend solves this by turning static ideas into **AI-assisted, personalized projects** that simulate senior workflows (e.g., fixing legacy code under deadlines). It's not just a list—it's a virtual mentor helping you stand out in an AI-driven market.
 
 ## Key Features (MVP)
 - **Skill-Based Personalization**: Input your skills (e.g., "Beginner JS, no databases") and get tailored projects.
